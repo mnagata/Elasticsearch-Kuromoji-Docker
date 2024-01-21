@@ -1,0 +1,2 @@
+# Elasticsearch-Kuromoji-Docker
+ElasticsearchのDockerイメージ起動時にKuromojiプラグインをロードさせる
